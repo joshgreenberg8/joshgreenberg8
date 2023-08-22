@@ -1,5 +1,3 @@
-<!--
-**joshgreenberg8/joshgreenberg8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hi, I'm Josh Greenberg, a budding data scientist and machine learning engineer. 
 
 I have an extensive academic and profiessional background as a mechanical engineer, but I'm working hard towards a transition into the cutting-edge world of machine learning. 
